@@ -1,4 +1,4 @@
-# Proyecto Unity - [Nombre del Proyecto]
+# Proyecto Unity - ScapeRoom-HaríaHighSchool
 
 ## Descripción
 
